@@ -1,0 +1,8 @@
+{
+    "type": "OreBlock",
+    "itemDrop": "biomass",
+    "variants": 3,
+    "oreDefault": true,
+    "oreScale": 28.0,
+    "oreThreshold": 0.85
+}
