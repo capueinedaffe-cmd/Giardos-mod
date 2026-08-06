@@ -1,0 +1,4 @@
+# Archivos temporales del devcontainer
+.env
+.env.run
+*.log
