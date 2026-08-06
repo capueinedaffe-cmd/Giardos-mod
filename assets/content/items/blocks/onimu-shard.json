@@ -1,0 +1,13 @@
+{
+    "type": "CoreBlock",
+    "name": "onimu-shard",
+    "health": 1100,
+    "itemCapacity": 2000,
+    "size": 2,
+    "unitType": "alpha",
+    "unitCapModifier": 8,
+    "category": "effect",
+    "requirements": [
+        { "item": "biomass", "amount": 100 }
+    ]
+}
