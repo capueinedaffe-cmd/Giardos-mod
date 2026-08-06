@@ -1,0 +1,15 @@
+// assets/content/blocks/biomass-extractor.json
+{
+    "type": "Drill",
+    "name": "biomass-extractor",
+    "localizedName": "Extractor de Biomasa",
+    "description": "Extrae biomasa concentrada del suelo.",
+    "tier": 1,
+    "drillTime": 200,
+    "size": 2,
+    "requirements": [
+        { "item": "biomass", "amount": 20 }
+    ],
+    "category": "production",
+    "research": "onimu-shard"
+}
