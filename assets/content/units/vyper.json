@@ -1,0 +1,36 @@
+{
+    "type": "flying",
+    "name": "vyper",
+    "localizedName": "Vyper",
+    "description": "Dron biológico de núcleo Mutatio. Absorbe recursos por contacto directo sin usar láseres.",
+    
+    "health": 180,
+    "speed": 2.8,
+    "flying": true,
+    "hitSize": 7,
+    
+    "mineTier": 1,
+    "mineSpeed": 2.5,
+    "mineRange": 6,
+    "mineFloor": true,
+    "mineWalls": false,
+    "mineHardnessScaling": true,
+    "mineItems": ["biomass", "copper", "lead"],
+    
+    "drawMineBeam": false,
+    "mineSound": "none",
+    "mineSoundVolume": 0,
+    
+    "itemCapacity": 40,
+    "buildSpeed": 0.8,
+    "buildRange": 120,
+    "drawBuildBeam": true,
+    
+    "engineOffset": 4,
+    "engineSize": 2,
+    "engineColor": "8DB360",
+    
+    "canBoost": false,
+    "boostWhenMining": false,
+    "faceTarget": true
+}
