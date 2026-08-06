@@ -1,13 +1,22 @@
 {
     "type": "CoreBlock",
     "name": "onimu-shard",
+    "localizedName": "Onimu Shard",
+    "description": "Núcleo biológico inicial de Mutatio. Genera un dron Vyper para el jugador.",
+    
     "health": 1100,
     "itemCapacity": 2000,
     "size": 2,
-    "unitType": "alpha",
+    
+    "unitType": "vyper",
     "unitCapModifier": 8,
+    "isFirstTier": true,
+    
     "category": "effect",
     "requirements": [
         { "item": "biomass", "amount": 100 }
-    ]
+    ],
+    
+    "research": "core-foundation"
 }
+
