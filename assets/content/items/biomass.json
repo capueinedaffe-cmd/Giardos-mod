@@ -1,0 +1,9 @@
+{
+    "name": "biomass",
+    "type": "Item",
+    "color": "8DB360",
+    "flammability": 0.3,
+    "explosiveness": 0,
+    "radioactivity": 0,
+    "charge": 0
+}
