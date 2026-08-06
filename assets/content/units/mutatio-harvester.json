@@ -1,17 +1,32 @@
 {
     "type": "mech",
     "name": "mutatio-harvester",
+    "localizedName": "Cosechador Mutatio",
+    
     "health": 80,
-    "speed": 2.5,
-    "flying": false,
-    "mineTier": 1,
-    "mineSpeed": 4.0,
-    "itemCapacity": 12,
+    "speed": 1.8,
     "hitSize": 8,
-    "engineOffset": 5,
-    "engineSize": 2,
-    "range": 50,
+    
+    "canBoost": true,
+    "boostMultiplier": 1.5,
+    "riseSpeed": 0.08,
+    "descentSpeed": 0.08,
+    
+    "mineTier": 1,
+    "mineSpeed": 3.5,
     "mineRange": 6,
+    "mineFloor": true,
+    "mineWalls": false,
+    
     "drawMineBeam": false,
-    "mineSound": "none"
+    "mineSound": "none",
+    "mineSoundVolume": 0,
+    
+    "itemCapacity": 25,
+    "buildSpeed": 0.3,
+    
+    "mechSideSway": 0.6,
+    "mechFrontSway": 0.1,
+    
+    "faceTarget": false
 }
