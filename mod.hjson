@@ -4,7 +4,7 @@
     "author": "capueinedaffe-cmd",
     "description": "Un planeta terraformado abandonado. Dos especies, dos filosofías: la evolución biológica de Mutatio y la industria sintética de Rinizio.",
     "version": "0.1.0",
-    "minGameVersion": "146",
+    "minGameVersion": "154",
     "java": true,
     "main": "giardos.GiardosMod"
 }
