@@ -1,8 +1,15 @@
 {
     "type": "OreBlock",
+    "name": "ore-biomass",
+    "localizedName": "Depósito de Biomasa",
+    "description": "Materia orgánica dispersa en el ambiente. Invisible a simple vista, pero los organismos Mutatio pueden detectarla y absorberla.",
+
     "itemDrop": "biomass",
     "variants": 3,
+
     "oreDefault": true,
     "oreScale": 28.0,
-    "oreThreshold": 0.85
+    "oreThreshold": 0.85,
+
+    "playerUnmineable": false
 }
