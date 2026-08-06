@@ -1,9 +1,16 @@
 {
-    "name": "biomass",
     "type": "Item",
+    "name": "biomass",
+    "localizedName": "Biomasa",
+    "description": "Materia orgánica rica en nutrientes. Base de la economía de Mutatio.",
+    
     "color": "8DB360",
+    "hardness": 0,
+    "cost": 0.5,
+    
     "flammability": 0.3,
     "explosiveness": 0,
     "radioactivity": 0,
     "charge": 0
 }
+
