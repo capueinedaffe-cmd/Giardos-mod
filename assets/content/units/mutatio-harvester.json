@@ -1,20 +1,17 @@
 {
-    "type": "mech",
+    "type": "flying",
     "name": "mutatio-harvester",
     "localizedName": "Cosechador Mutatio",
+    "description": "Organismo volador especializado en recolectar biomasa del ambiente y transportarla al núcleo. Sustituye parcialmente la logística de cintas.",
     
-    "health": 80,
-    "speed": 1.8,
-    "hitSize": 8,
-    
-    "canBoost": true,
-    "boostMultiplier": 1.5,
-    "riseSpeed": 0.08,
-    "descentSpeed": 0.08,
+    "health": 60,
+    "speed": 2.2,
+    "flying": true,
+    "hitSize": 6,
     
     "mineTier": 1,
-    "mineSpeed": 3.5,
-    "mineRange": 6,
+    "mineSpeed": 4.0,
+    "mineRange": 8,
     "mineFloor": true,
     "mineWalls": false,
     
@@ -22,11 +19,13 @@
     "mineSound": "none",
     "mineSoundVolume": 0,
     
-    "itemCapacity": 25,
+    "itemCapacity": 20,
     "buildSpeed": 0.3,
     
-    "mechSideSway": 0.6,
-    "mechFrontSway": 0.1,
+    "engineOffset": 3,
+    "engineSize": 1.5,
+    "engineColor": "6B8E3B",
     
+    "canBoost": false,
     "faceTarget": false
 }
