@@ -1,0 +1,24 @@
+{
+    "type": "mech",
+    "name": "rinizio-dagger",
+    "health": 150,
+    "speed": 1.8,
+    "flying": false,
+    "hitSize": 8,
+    "range": 18,
+    "weapons": [
+        {
+            "name": "rinizio-dagger-weapon",
+            "reload": 18,
+            "x": 4,
+            "y": 0,
+            "top": false,
+            "bullet": {
+                "type": "BasicBulletType",
+                "damage": 12,
+                "speed": 2.5,
+                "lifetime": 40
+            }
+        }
+    ]
+}
