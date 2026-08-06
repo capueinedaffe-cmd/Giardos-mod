@@ -1,0 +1,15 @@
+{
+    "type": "flying",
+    "name": "mutatio-harvester",
+    "health": 80,
+    "speed": 2.5,
+    "flying": true,
+    "mineTier": 1,
+    "mineSpeed": 3.0,
+    "itemCapacity": 30,
+    "buildSpeed": 0.5,
+    "hitSize": 8,
+    "engineOffset": 5,
+    "engineSize": 2,
+    "range": 50
+}
